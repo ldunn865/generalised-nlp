@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "generalised-nlp-for-survey-datasets"
+version = "0.1.0"
+description = ""
+authors = ["lauren.dunn <lauren.dunn@ukhsa.gov.uk>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.1.3"
+streamlit = "^1.29.0"
+scikit-learn = "^1.3.2"
+torch = "^2.1.1"
+transformers = "4.30.0"
+cython = "^3.0.6"
+bertopic = "^0.16.0"
+gensim = "^4.3.2"
+pytube = "^15.0.0"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

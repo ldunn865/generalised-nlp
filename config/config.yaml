@@ -1,0 +1,4 @@
+data_raw_folder: "../data/raw/"
+data_processed_folder: "../data/processed/"
+output_folder: "../outputs/"
+data_folder: "../data/"

@@ -1,0 +1,8 @@
+dataprep
+matplotlib
+pandas
+numpy
+plotly
+wordcloud
+kaggle
+sweetviz
